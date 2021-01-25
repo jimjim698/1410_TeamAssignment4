@@ -3,7 +3,7 @@ package recipeCard;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 /**
- * RecipeCard gets various information about a recipe and formats it into a card
+ * RecipeCard gets various information about a recipe and formats it into a card.
  * 
  * @author I Zuniga, J Lotruglio 
  *
